@@ -1,0 +1,19 @@
+Just a fun little script for cheating on Google's 'zerg rush'.
+
+Install the extension (from the downloads section in github), then google "zerg rush" (without quotations), and watch you score go up!
+
+When your score is high enough, hit TAB to stop the script, lose, and register your score.
+
+
+Disclaimer:
+-Do not use for competitive play.
+
+And on that note:
+-Do not play this game competitively
+
+
+Written by Leigh Pauls
+http://leighpauls.com
+
+Credit to Eduardo Lundgren for writing jquery.simulate.js
+https://github.com/eduardolundgren/jquery-simulate
